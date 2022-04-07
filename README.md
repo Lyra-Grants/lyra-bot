@@ -9,6 +9,7 @@ Bot is .Net Core using the Nethereum + Tweetinvi libraries.
 ### Setup
 
 Replace the following settings in the app config file for Twitter.
+
 **Important** to tweet using the Twitter API you must have [elevated access](https://developer.twitter.com/en/docs/twitter-api/getting-started/about-twitter-api) which you should apply for.
 
 ```bash
