@@ -1,4 +1,4 @@
-# Lyrabot Pre-Avalon \_/
+# Lyrabot Pre-Avalon _/
 
 Pre Avalon Lyra Bot, integrated with twitter and telegram.
 
@@ -26,7 +26,6 @@ Telegram requires you to set up a bot + a channel.
  "TelegramConfig": {
     "AccessToken": "<TELEGRAM_ACCESS_TOKEN>",
     "ChannelName": "<TELEGRAM_CHANNEL_NAME>"
-  }
 ```
 
 ### Build + Run
@@ -38,14 +37,12 @@ The following command will run the bot for ETH, params are:
 
 ```bash
     lyrabot.exe <ASSET> <TWITTER_ENABLED> <TELEGRAM_ENABLED>
-  }
 ```
 
 Example:
 
 ```bash
     lyrabot.exe eth true false
-  }
 ```
 
 Use the lyrabot.bat file in the scripts folder to spin up 4 versions of the bot, 1 for each asset.
